@@ -1,12 +1,14 @@
 title: Thien Nghiem # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  <b>About me<b>
+  <strong>About me</strong>
   <br> Data Science graduate student at Regis University that expecting to graduate on Q1 2020. My expertise focuses on Data Analytics, Applied Statistics, and Machine Learning.<br>
   
   <br><br>
-  <b>Experience<b>
+  <strong>Experience</strong>
   <br> I have worked in the IT industry for three years with various roles including Data Scientist, Data Analyst, Customer Specialist, and Technician<br>
+  
+  <br><br>
   <a href="https://www.linkedin.com/in/thiennghiem/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
