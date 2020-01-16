@@ -38,6 +38,8 @@ You can access the web application [here](https://canescent-cow-0653.dataplicity
 
 Exploratory Data Analysis of the Sensor Data can be found [here](https://grandpurpleocelot.github.io/IOTanlysis.github.io/)
 
+---
+
 ## Classification Problems
 
 These are projects that aim to solve enterprise problem using structured data. Some projects were part of Kaggle competitions.
