@@ -1,5 +1,4 @@
-# Data Science Portfolio by Thien Nghiem
-
+# Data Science Portfolio
 ---
 
 This portfolio is a compilation of my personal projects that focus on exploratory data analysis, applied machine learning, statistics, and software engineering. 
@@ -40,9 +39,28 @@ Exploratory Data Analysis of the Sensor Data can be found [here](https://grandpu
 
 ---
 
+## Enterprise Project
+
+Industry: Telecom
+
+I was responsible for designing automated system for detecting and evaluating last-mile network incidents that oversees internet subscribers in order to enhance service quality and reduce customer churn. Some results from this project include:
+
+•	Outputs from the detection system supported 8,000-10,000 subscribers monthly, resulting in a 43% – 50% reduction in churn rate for subscribers affected by incidents. 
+
+•	Implemented univariate clustering and statistical methods, leading to a 60% improvement in detection accuracy.
+
+•	Automated workflows and data pipelines that handle data cleansing, ETL, machine learning implementation, detection processes and error analysis of 40 million rows of data daily.
+
+•	Engaged with stakeholders to understand their use cases and define appropriate KPIs for each party involved. 
+
+I also created PowerBI dashboard for monitoring, testing, and communicating the results with project manager and executives.
+
+
+---
+
 ## Classification Problems
 
-These are projects that aim to solve enterprise problem using structured data. Some projects were part of Kaggle competitions.
+These are projects that aim to solve classification problems involve structured data. Some projects were part of Kaggle competitions.
 
 ### Detect Fraud from Customer Transactions
 
