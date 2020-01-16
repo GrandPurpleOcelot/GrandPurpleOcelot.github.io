@@ -14,7 +14,7 @@ These are creative projects that were created to satisfy my machine learning itc
 
 This is a project that involve the application of computer visions method such as facial detection and facial landmarks construction. The project is set out to create an average face for a set of images from a community. For example, the images from each subReddit were used to generate an average face that represent the average facial features of the given subReddit.
 
-![img1](faces_of_reddit.JPG)
+![img1](/images/faces_of_reddit.JPG)
 
 My Youtube presentation video can be found [here](https://www.youtube.com/watch?v=WG-p9Y0-Xvk&t=114s). The code for this project can be found [here](https://github.com/GrandPurpleOcelot/faces_of_reddit). 
 
@@ -28,7 +28,7 @@ A interactive dashboard application that monitor the condition of my room in rea
 
 * Provide analytics about energy usage using historical data
 
-![img2](iot.JPG)
+![img2](/images/iot.JPG)
 
 You can access the web application [here](https://canescent-cow-0653.dataplicity.io). Username and password are needed to access this page:
 
