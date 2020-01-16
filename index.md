@@ -55,7 +55,7 @@ I was responsible for designing automated system for detecting and evaluating la
 
 I also created PowerBI dashboard for monitoring, testing, and communicating the results with project manager and executives.
 
-
+![img1](/images/rkn.jpg)
 ---
 
 ## Classification Problems
