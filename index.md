@@ -73,7 +73,7 @@ MNIST Digit Recognition is a knowledge competition on Kaggle. Many people starte
 
 ### Predicting Diabetes using Ensemble Methods
 
-The objective of this project is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. The project focus on handling missing values, by using information from other variables in the dataset to predict and impute the missing values. I alsp used ensemble methods such as bagging and boosting, as well as K-folds validation techniques to predict diabetes with the accuracy of 76%. Here's my analysis in [R notebook](https://grandpurpleocelot.github.io/predicting-diabetes.github.io/).
+The objective of this project is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. The project focus on handling missing values, by using information from other variables in the dataset to predict and impute the missing values. I used ensemble methods such as bagging and boosting, as well as K-folds validation techniques to predict diabetes with the accuracy of 76%. Here's my analysis in [R notebook](https://grandpurpleocelot.github.io/predicting-diabetes.github.io/).
 
 
 ---
