@@ -7,7 +7,7 @@ This portfolio is a compilation of my data science projects that focus on data a
 
 ## Stand-alone Projects
 
-These are creative projects that were created to satisfy my machine learning itch. Each project is designed to address a real-world problem that relevant to my passion and pursuit of learning. 
+Each project is an end to end project that address a real-world problem with the aids of data visualisations.
 
 ### Predict Sentiment in Yelp Reviews
 
