@@ -9,6 +9,12 @@ This portfolio is a compilation of my personal projects that focus on explorator
 
 These are creative projects that were created to satisfy my machine learning itch. Each project is designed to address a real-world problem that relevant to my passion and pursuit of learning. 
 
+### Predict Sentiment in Yelp Reviews
+
+This is a comprehensive NLP project on Yelp's user reviews, including interesting insights, trends, and sentiment analysis with text data. Using logistic regression with N-grams feature engineering, I was able to train a model can predict sentiment (negative or positive) with 95% accuracy. You can find the detail of the full project [here](https://github.com/GrandPurpleOcelot/yelp_sentiment).
+
+![sentiment][/images/sentiment.png]
+
 ### The Faces of Reddit
 
 This is a project that involve the application of computer visions method such as facial detection and facial landmarks construction. The project is set out to create an average face for a set of images from a community. For example, the images from each subReddit were used to generate an average face that represent the average facial features of the given subReddit.
