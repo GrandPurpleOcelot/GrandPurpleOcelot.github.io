@@ -1,7 +1,7 @@
 # Data Science Portfolio
 ---
 
-This portfolio is a compilation of my personal projects that focus on exploratory data analysis, applied machine learning, statistics, and software engineering. 
+This portfolio is a compilation of my data science projects that focus on data analysis, applied machine learning, statistics, and software engineering. 
 
 ---
 
@@ -49,7 +49,7 @@ Exploratory Data Analysis of the Sensor Data can be found [here](https://grandpu
 
 Industry: Telecom
 
-I was responsible for designing automated system for detecting and evaluating last-mile network incidents that oversees internet subscribers in order to enhance service quality and reduce customer churn. Some results from this project include:
+I was responsible for designing automated system for detecting and evaluating last-mile network incidents that oversees internet subscribers to enhance service quality and reduce customer churn. Some results from this project include:
 
 •	Outputs from the detection system supported 8,000-10,000 subscribers monthly, resulting in a 43% – 50% reduction in churn rate for subscribers affected by incidents. 
 
@@ -71,7 +71,7 @@ These are projects that aim to solve classification problems involve structured 
 
 ### Detect Fraud from Customer Transactions
 
-Researchers from the IEEE Computational Intelligence Society (IEEE-CIS) presented a challenge regarding improving the accuracy of fraud prevention system in order to improve customer experience in banking services. In this competition, I benchmark machine learning models on a challenging large-scale dataset. There is a lot of data about users behavior and potential patterns for detecting fraud. Here's my [kernel](https://www.kaggle.com/suoires1/fraud-detection-eda-and-modeling).
+Researchers from the IEEE Computational Intelligence Society (IEEE-CIS) presented a challenge regarding improving the accuracy of fraud prevention system to improve customer experience in banking services. In this competition, I benchmark machine learning models on a challenging large-scale dataset. There is a lot of data about users behavior and potential patterns for detecting fraud. Here's my [kernel](https://www.kaggle.com/suoires1/fraud-detection-eda-and-modeling).
 
 ### MNIST Digit Recognition
 
