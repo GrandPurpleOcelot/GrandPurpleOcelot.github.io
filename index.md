@@ -13,7 +13,7 @@ These are creative projects that were created to satisfy my machine learning itc
 
 This is a comprehensive NLP project on Yelp's user reviews, including interesting insights, trends, and sentiment analysis with text data. Using logistic regression with N-grams feature engineering, I was able to train a model can predict sentiment (negative or positive) with 95% accuracy. You can find the detail of the full project [here](https://github.com/GrandPurpleOcelot/yelp_sentiment).
 
-![sentiment][/images/sentiment.png]
+![sentiment](/images/sentiment.png)
 
 ### The Faces of Reddit
 
